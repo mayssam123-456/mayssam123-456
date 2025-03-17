@@ -5,6 +5,7 @@
 - 📫 You can reach me through my email at mayssemmayssem20@gmail.com or connect with me on GitHub Discussions.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m learning to juggle between coding, writing my novel, and mastering new languages because who says you can't be creative and technical at the same time?
+
 -✨ Just a baddie who codes with fire, creates with fury, and leaves a trail of magic, no rules, no limits! catch me breaking the mold with a wicked smile and a touch of magic!🔮💻💅😈
 
 <!---
