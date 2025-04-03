@@ -1,13 +1,18 @@
-- 👋 Hi, it's @mayssam123-456
-- 👀 I’m passionate about web development, languages, theater, and writing.
-- 🌱 Currently, I’m diving into full-stack development, focusing on React, MySQL, and improving my English and SAT scores.
-- 💞️ I’d love to collaborate on creative full-stack projects and anything related to technology or writing.
-- 📫 You can reach me through my email at mayssemmayssem20@gmail.com or connect with me on GitHub Discussions.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’m learning to juggle between coding, writing my novel, and mastering new languages because who says you can't be creative and technical at the same time?
-- ✨ Just a baddie who codes with fire, creates with fury and leaves a trail of magic. catch me breaking the mold with a wicked smile and a touch of magic!🔮💻💅😈
+# 💫 About Me:
+Bienvenue sur mon GitHub ! Je suis une développeuse full-stack passionnée par la création d'expériences web performantes et intuitives. J'explore continuellement les nouvelles technologies pour concevoir des applications modernes et évolutives.<br><br>🔹 Tech Stack :<br><br>🔸 Frontend : React.js, Next.js, Tailwind CSS<br><br>🔸 Backend : Node.js, Express.js, Sequelize (MySQL)<br><br>🔸 Authentification & Sécurité : JWT, OAuth<br><br>🔸 Autres outils : Git, Docker, WebSockets (Socket.io), Cloudinary<br><br>📌 Projets en cours :<br><br>💡 Développement d'une plateforme d'échange de livres 📚<br><br>🎮 Création d'un jeu éducatif pour apprendre la programmation<br><br>💬 Mise en place d'un système de chat en temps réel<br><br>🚀 Objectifs :<br><br>Contribuer à des projets open source<br><br>Approfondir mes connaissances en architecture logicielle<br><br>Explorer l'intégration de l'IA dans le développement web<br><br>Toujours en quête d’apprentissage, j’aime relever de nouveaux défis et collaborer sur des projets innovants. N’hésitez pas à explorer mes dépôts et à me contacter pour échanger !<br><br>
 
-<!---
-mayssam123-456/mayssam123-456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayssam mayssam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mayssam Zaied) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mayssam Zaied) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayssemmayssem20@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mayssam123-456&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mayssam123-456&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayssam123-456&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mayssam123-456&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
